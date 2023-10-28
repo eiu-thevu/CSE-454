@@ -2,6 +2,8 @@
 
 This is a first line in readme
 
+git status to see the files you have modified
+
 # PHPMailer – A full-featured email creation and transfer class for PHP
 
 [![Test status](https://github.com/PHPMailer/PHPMailer/workflows/Tests/badge.svg)](https://github.com/PHPMailer/PHPMailer/actions)
